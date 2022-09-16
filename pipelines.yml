@@ -18,7 +18,7 @@ resources:
       runID: 2
 
 pipelines:
-  - name: demo_manual
+  - name: demo_manual_123
     configuration:
       inputResources:
         - name: myFirstRepo1
